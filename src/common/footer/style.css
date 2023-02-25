@@ -1,0 +1,42 @@
+footer {
+  background-color: #0c0c0c;
+  padding: 100px 0;
+  color: #fff;
+}
+footer h1 {
+  margin-bottom: 00px;
+  color: #fa5706;
+  font-weight: 800;
+  font-style: italic;
+}
+#ab {
+  margin-bottom: 80px;
+  color: #f6f3f3;
+  font-weight: 800;
+  font-style: italic;
+}
+footer .img {
+  background-color: #0e5af3;
+  padding: 15px 20px;
+  border-radius: 50px;
+}
+footer .img i {
+  font-size: 20px;
+  margin: 5px;
+}
+footer .img span {
+  margin-top: 5px;
+}
+footer p {
+  font-size: 14px;
+  font-weight: 300;
+  opacity: 0.5;
+  margin-bottom: 20px;
+}
+footer h2 {
+  margin-bottom: 20px;
+}
+footer li {
+  margin-bottom: 10px;
+  opacity: 0.5;
+}
